@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3e2095347aa9c33370eb72fea3969c0a7254e168">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/classes-d87c7ca56ea1d90c8d37e204879710311fea4df7.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.1/8d47177aa4da0f259fc823a39736bad2f09993d5/hamcrest-integration-1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d47177aa4da0f259fc823a39736bad2f09993d5">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.1-473a62f2e0ff9101aa56b7fc12257ba80d978114.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/.gradle/caches/modules-2/files-2.1/junit/junit-dep/4.10/64417b3bafdecd366afa514bd5beeae6c1f85ece/junit-dep-4.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="64417b3bafdecd366afa514bd5beeae6c1f85ece">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/junit-dep-4.10-ac10d61c2e4ec83c567cf4fb444b79b6d073c9fa.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/.gradle/caches/modules-2/files-2.1/junit/junit-dep/4.10/64417b3bafdecd366afa514bd5beeae6c1f85ece/junit-dep-4.10.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="64417b3bafdecd366afa514bd5beeae6c1f85ece">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/junit-dep-4.10-ac10d61c2e4ec83c567cf4fb444b79b6d073c9fa.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.1/b988c01468e3398d46678a2eb48aeb5bde271e9f/hamcrest-library-1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b988c01468e3398d46678a2eb48aeb5bde271e9f">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.1-8a08414c284a5e2cec76cda892622c1e2add5273.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1-f6e4806ff2691f40d5fb1815a8e8a556d14d4199.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1-355417d7847a45352b4bb7899c2cf79d0ceae84b.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.1/b988c01468e3398d46678a2eb48aeb5bde271e9f/hamcrest-library-1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b988c01468e3398d46678a2eb48aeb5bde271e9f">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.1-8a08414c284a5e2cec76cda892622c1e2add5273.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/860340562250678d1a344907ac75754e259cdb14/hamcrest-core-1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="860340562250678d1a344907ac75754e259cdb14">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.1-52d22808d0574bc2c2a6114e1ddef470d2bc4a6a.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-96cd4c3e1cfef23c89bcbed8d94bf349b6db1365.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7cc4b00df8357dabd613998c9229ace9bba26ee2">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/classes-b8213182e58a93861e83d6a71fca49345887986e.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1-f6e4806ff2691f40d5fb1815a8e8a556d14d4199.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/exploded-aar/com.android.support.test/testing-support-lib/0.1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2700b782e8c78b36636a15b0ed86126a96295de7">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/classes-1bd155d908884a84bf62d71f2bbce68c54f1dcab.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.3.1/e6e664ab1b59d2504c3529f128747c13487f96ca/robotium-solo-5.3.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e6e664ab1b59d2504c3529f128747c13487f96ca">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/robotium-solo-5.3.1-0cef9863ba79701774d34c78105e5358ea315f44.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7cc4b00df8357dabd613998c9229ace9bba26ee2">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/classes-b8213182e58a93861e83d6a71fca49345887986e.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1-355417d7847a45352b4bb7899c2cf79d0ceae84b.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/Documents/dev_tool/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-5c50a4ef2ae548d506b2b322912e9e6827b02285.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1-d20d95846880dce0d66e8b00d36d48ea083562d0.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.1/8d47177aa4da0f259fc823a39736bad2f09993d5/hamcrest-integration-1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8d47177aa4da0f259fc823a39736bad2f09993d5">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.1-473a62f2e0ff9101aa56b7fc12257ba80d978114.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/860340562250678d1a344907ac75754e259cdb14/hamcrest-core-1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="860340562250678d1a344907ac75754e259cdb14">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.1-52d22808d0574bc2c2a6114e1ddef470d2bc4a6a.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/debug/classes-4e5015380e61b30902d36b32d9b173f969241c7b.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3e2095347aa9c33370eb72fea3969c0a7254e168">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/classes-d87c7ca56ea1d90c8d37e204879710311fea4df7.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1-d20d95846880dce0d66e8b00d36d48ea083562d0.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2-f6a243b1230b5abf9b2a81176ae1ea8e31ebe084.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2-f6a243b1230b5abf9b2a81176ae1ea8e31ebe084.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/debug/classes-0cc8b6f8cf8e3ab9a761a7ddd3b4fef0a10df46f.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/exploded-aar/com.android.support.test/testing-support-lib/0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2700b782e8c78b36636a15b0ed86126a96295de7">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/classes-1bd155d908884a84bf62d71f2bbce68c54f1dcab.jar" />
+    </item>
+    <item
+        jar="/Users/monkey/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.3.1/e6e664ab1b59d2504c3529f128747c13487f96ca/robotium-solo-5.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e6e664ab1b59d2504c3529f128747c13487f96ca">
+        <dex dex="/Users/monkey/Downloads/Espresso_v2/app/build/intermediates/pre-dexed/androidTest/debug/robotium-solo-5.3.1-0cef9863ba79701774d34c78105e5358ea315f44.jar" />
+    </item>
+
+</items>
